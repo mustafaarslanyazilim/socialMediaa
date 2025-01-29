@@ -1,4 +1,14 @@
 # socialmedia
+"""
+-Anasayfa yapısı olan bir sosyal media başlangıç uygulaması geliştirdim.
+-Ekranlarda bulunan tüm özellikler her nesne özel olarak sınıflarla oluşturuldu.
+-Ana sayfa da kullanıcıların gönderi akışları
+-Kullanıcı hikayeleri
+-Kullanıcı profili
+-Bildirimler ekranı
+"""
+
+bulunmaktadır.
 
 ![socialmedia](https://github.com/user-attachments/assets/35eeedb4-aa2e-4835-8551-b605d96e2700)
 
