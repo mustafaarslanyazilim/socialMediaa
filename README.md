@@ -1,6 +1,6 @@
 # socialmedia
 """
-< h1 >-Anasayfa yapısı olan bir sosyal media başlangıç uygulaması geliştirdim. </h1>
+<h1> -Anasayfa yapısı olan bir sosyal media başlangıç uygulaması geliştirdim. </h1>
 
 -Ekranlarda bulunan tüm özellikler her nesne özel olarak sınıflarla oluşturuldu.
 -Ana sayfa da kullanıcıların gönderi akışları
