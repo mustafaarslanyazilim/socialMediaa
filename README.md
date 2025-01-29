@@ -20,3 +20,8 @@
 -----------------------------------------------
 
 ![socialmedia2](https://github.com/user-attachments/assets/c8b31ac9-9f0a-4035-9a47-f4ebfc27b097)
+-----------------------------------------------
+![image](https://github.com/user-attachments/assets/8392b2fe-cc8f-480d-840e-ebe422c1477d)
+
+-----------------------------------------------
+![image](https://github.com/user-attachments/assets/699efdbd-5ef9-4a1e-bb1d-a698345509d5)
