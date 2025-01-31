@@ -4,6 +4,8 @@
 <pre> 
 """
 -Anasayfa yapısı olan bir sosyal media başlangıç uygulaması geliştirdim.
+-Hero widget ile uçan resim eklendi.
+-Her telefona uyumlu sürüm geliştirildi.
 -Ekranlarda bulunan tüm özellikler her nesne özel olarak sınıflarla oluşturuldu.
 -Ana sayfa da kullanıcıların gönderi akışları
 -Kullanıcı hikayeleri
